@@ -119,7 +119,6 @@ const AllQuestions = [
         options: [],
         answer: "Everyone must follow the law"
     },
-
     // --- True or False ---
     {
         id: 14,
@@ -174,7 +173,6 @@ const AllQuestions = [
         options: ["TRUE", "FALSE"],
         answer: "TRUE"
     },
-
     // --- Fill-in-the-Blank (as 'short') ---
     {
         id: 21,
@@ -211,7 +209,6 @@ const AllQuestions = [
         options: [],
         answer: "2"
     },
-
     // --- Short Answers ---
     {
         id: 26,
@@ -432,40 +429,39 @@ const AllQuestions = [
         type: "tf",
         question: "Supreme Court justices serve for life to limit political influence",
         options: ["TRUE", "FALSE"],
-        answer: "",
-        explanation: ""
+        answer: "TRUE",
     },
     {
         id: 57,
         type: "tf",
         question: "The Chief Justice of the United states is Clarence Thomas",
         options: ["TRUE", "FALSE"],
-        answer: "",
-        explanation: ""
+        answer: "FALSE",
+        explanation: "John Roberts"
     },
     {
         id: 58,
         type: "tf",
         question: "Education policy is only for the federal government",
         options: ["TRUE", "FALSE"],
-        answer: "",
-        explanation: ""
+        answer: "FALSE",
+        explanation: "Print paper money"
     },
     {
         id: 59,
         type: "tf",
         question: "Printing money is only for the states",
         options: ["TRUE", "FALSE"],
-        answer: "",
-        explanation: ""
+        answer: "FALSE",
+        explanation: "Provide education"
     },
     {
         id: 60,
         type: "tf",
         question: "The purpose of the 10th Amendment is freedom of speech",
         options: ["TRUE", "FALSE"],
-        answer: "",
-        explanation: ""
+        answer: "FALSE",
+        explanation: "power not given to federal, belongs to the states or the people"
     },
     // multiple choice
     {
