@@ -1,0 +1,4 @@
+            [[redirects]]
+              from = "/*"
+              to = "/questions.html"
+              status = 200
