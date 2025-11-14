@@ -1,1 +1,0 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e37e690a-6a69-46f1-b779-ccafa93c7659/deploy-status)](https://app.netlify.com/projects/uscis-questions/deploys)
