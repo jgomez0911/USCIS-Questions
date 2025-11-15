@@ -50,7 +50,7 @@ const AllQuestions = [
     {
         id: 4,
         type: "mcq",
-        question: "The U.S. Constitution starts with the words 'We the People.' what does 'We the People' does not mean",
+        question: "The U.S. Constitution starts with the words 'We the People.' what does 'We the People' not mean",
         options: ["The consent o fthe governed", "Only the people born in America", "Popular sovereignty", "people should govern themselves"],
         answer: "Only the people born in America"
     },
@@ -101,14 +101,14 @@ const AllQuestions = [
     {
         id: 11,
         type: "short",
-        question: "The words 'Life,Liberty and teh pursui of Happiness' are in what founding document?",
+        question: "The words 'Life,Liberty and the pursui of Happiness' are in what founding document?",
         options: [],
         answer: "Declaration of Independence"
     },
     {
         id: 12,
         type: "short",
-        question: "What is teh Economic system of the United States?",
+        question: "What is the Economic system of the United States?",
         options: [],
         answer: "Capitalism"
     },
@@ -123,7 +123,7 @@ const AllQuestions = [
     {
         id: 14,
         type: "tf",
-        question: "Many documents influenced teh U.S. Constitution including the 'The Iroquois Great Law of Peace.'",
+        question: "Many documents influenced the U.S. Constitution including the 'The Iroquois Great Law of Peace.'",
         options: ["TRUE", "FALSE"],
         answer: "TRUE"
     },
@@ -146,7 +146,7 @@ const AllQuestions = [
     {
         id: 17,
         type: "tf",
-        question: "The President of the United States is in charge of teh Executive branch of Government",
+        question: "The President of the United States is in charge of the Executive branch of Government",
         options: ["TRUE", "FALSE"],
         answer: "TRUE"
     },
@@ -161,7 +161,7 @@ const AllQuestions = [
     {
         id: 19,
         type: "tf",
-        question: "The two parts of the U.S Congress are teh House of Commons and the Senate",
+        question: "The two parts of the U.S Congress are the House of Commons and the Senate",
         options: ["TRUE", "FALSE"],
         answer: "FALSE",
         explanation: "Senate and House"
@@ -369,7 +369,7 @@ const AllQuestions = [
         type: "short",
         question: "What does the President's Cabinet do?",
         options: [],
-        answer: "Advises teh President"
+        answer: "Advises the President"
     },
     {id: 48,
         type: "short",
@@ -385,7 +385,7 @@ const AllQuestions = [
     },
     {id: 50,
         type: "short",
-        question: "What is one part of teh judicial branch?",
+        question: "What is one part of the judicial branch?",
         options: [],
         answer: "Supreme Court"
     },
