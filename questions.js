@@ -51,7 +51,7 @@ const AllQuestions = [
         id: 4,
         type: "mcq",
         question: "The U.S. Constitution starts with the words 'We the People.' what does 'We the People' not mean",
-        options: ["The consent o fthe governed", "Only the people born in America", "Popular sovereignty", "people should govern themselves"],
+        options: ["The consent of the governed", "Only the people born in America", "Popular sovereignty", "people should govern themselves"],
         answer: "Only the people born in America"
     },
     {
@@ -272,8 +272,8 @@ const AllQuestions = [
         type: "tf",
         question: "The President elects members of the house of Representatives",
         options: ["TRUE", "FALSE"],
-        answer: "",
-        explanation: ""
+        answer: "FALSE",
+        explanation: "Citizens from their district elect representatives"
     },
     {
         id: 35,
@@ -463,6 +463,115 @@ const AllQuestions = [
         answer: "FALSE",
         explanation: "power not given to federal, belongs to the states or the people"
     },
+    // fill in the blank
+    {
+        id: 61,
+        type: "short",
+        question: "_____ is the governor of your state now",
+        options: [],
+        answer: "Tim Walz"
+    },
+    {
+        id: 62,
+        type: "short",
+        question: "_____ is the captial of your state",
+        options: [],
+        answer: "Saint Paul"
+    },
+    // short
+    {
+        id: 63,
+        type: "short",
+        question: "There are four amendments to the U.S Constitution about who can vote. describe one of them.",
+        options: [],
+        answer: "Any citizen can vote"
+    },
+    {
+        id: 64,
+        type: "short",
+        question: "Who can vote in federal elections, run for federal office, and serve on a jury in the United States",
+        options: [],
+        answer: "U.S citizens"
+    },
+    {
+        id: 65,
+        type: "short",
+        question: "What are three rights o everyone living in hte United States",
+        options: [],
+        answer: "Freedom of speech, assembly and religion"
+    },
+    {
+        id: 66,
+        type: "short",
+        question: "What do we show loyalty to when we say the Pledge of Allegiance?",
+        options: [],
+        answer: "teh U.S flag"
+    },
+    {
+        id: 67,
+        type: "short",
+        question: "Name two promises that new citizens make in the Oath of Allegiance",
+        options: [],
+        answer: "loyalty to the U.S, defend teh constitution"
+    },
+    {
+        id: 68,
+        type: "short",
+        question: "How can people become United States citizens?",
+        options: [],
+        answer: "Naturalize"
+    },
+    {
+        id: 69,
+        type: "short",
+        question: "What are two examples of civic participation in the United States?",
+        options: [],
+        answer: "Run for office, join a civic group"
+    },
+    {
+        id: 70,
+        type: "short",
+        question: "What is one way Americans can serve their country?",
+        options: [],
+        answer: "Pay taxes"
+    },
+    {
+        id: 71,
+        type: "short",
+        question: "Why is it important to pay fereal taxes?",
+        options: [],
+        answer: "Required by law"
+    },
+    {
+        id: 72,
+        type: "short",
+        question: "it is important for all men age 18 through 25 to register for the selective Service. Name one reason why",
+        options: [],
+        answer: "Required by law"
+    },
+    // True or False
+    {
+        id: 73,
+        type: "tf",
+        question: "The colonist came to America for economic opportunity",
+        options: ["TRUE","FALSE"],
+        answer: "TRUE"
+    },
+    {
+        id: 74,
+        type: "tf",
+        question: "Africans lived in America before the Europeans arrived",
+        options: ["TRUE","FALSE"],
+        answer: "FALSE",
+        explanation: "Native Americans"
+    },
+    {
+        id: 75,
+        type: "tf",
+        question: "Africans were taken and sold as slaves",
+        options: ["TRUE","FALSE"],
+        answer: "TRUE"
+    },
     // multiple choice
     {
         id: 76,
@@ -492,6 +601,150 @@ const AllQuestions = [
         options: ["07/02/1776", "07/04/1776", "07/04/1796", "07/04/1619"],
         answer: "07/04/1776"
     },
+    // short
+    {
+        id: 80,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 81,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 82,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 83,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 84,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 85,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 86,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 87,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 88,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 89,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    // true or false
+    {
+        id: 90,
+        type: "tf",
+        question: "",
+        options: ["TRUE","FALSE"],
+        answer: ""
+    },
+    {
+        id: 91,
+        type: "tf",
+        question: "",
+        options: ["TRUE","FALSE"],
+        answer: ""
+    },
+    {
+        id: 92,
+        type: "tf",
+        question: "",
+        options: ["TRUE","FALSE"],
+        answer: ""
+    },
+    {
+        id: 93,
+        type: "tf",
+        question: "",
+        options: ["TRUE","FALSE"],
+        answer: ""
+    },
+    {
+        id: 94,
+        type: "tf",
+        question: "",
+        options: ["TRUE","FALSE"],
+        answer: ""
+    },
+    // short
+    {
+        id: 95,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 96,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 97,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 98,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 99,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    // multiple choice
     {
         id: 100,
         type: "mcq",
@@ -540,8 +793,164 @@ const AllQuestions = [
         question: "Why did the United States enter World War II?",
         options: ["Impressment of sailors", "Pearl Harbor", "Germanssinking US ships", "Taxation"],
         answer: "Pearl Harbor"
-    }
-
+    },
+    // short
+    {
+        id: 107,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 108,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 109,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 110,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 111,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 112,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 113,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 114,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    // true or false
+    {
+        id: 115,
+        type: "tf",
+        question: "",
+        options: ["TRUE","FALSE"],
+        answer: ""
+    },
+    {
+        id: 116,
+        type: "tf",
+        question: "",
+        options: ["TRUE","FALSE"],
+        answer: ""
+    },
+    {
+        id: 117,
+        type: "tf",
+        question: "",
+        options: ["TRUE","FALSE"],
+        answer: ""
+    },
+    {
+        id: 118,
+        type: "tf",
+        question: "",
+        options: ["TRUE","FALSE"],
+        answer: ""
+    },
+    {
+        id: 119,
+        type: "tf",
+        question: "",
+        options: ["TRUE","FALSE"],
+        answer: ""
+    },
+    {
+        id: 120,
+        type: "tf",
+        question: "",
+        options: ["TRUE","FALSE"],
+        answer: ""
+    },
+    {
+        id: 121,
+        type: "tf",
+        question: "",
+        options: ["TRUE","FALSE"],
+        answer: ""
+    },
+    // short
+    {
+        id: 122,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 123,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 124,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 125,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 126,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 127,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
+    {
+        id: 128,
+        type: "short",
+        question: "?",
+        options: [],
+        answer: ""
+    },
 ];
 
 // --- 3. Global State ---
