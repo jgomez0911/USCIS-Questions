@@ -605,70 +605,70 @@ const AllQuestions = [
     {
         id: 80,
         type: "short",
-        question: "?",
+        question: "The American Revolution had many important events. Name one.",
         options: [],
         answer: ""
     },
     {
         id: 81,
         type: "short",
-        question: "?",
+        question: "There were 13 original states. Name five",
         options: [],
         answer: ""
     },
     {
         id: 82,
         type: "short",
-        question: "?",
+        question: "What founding documetn was written in 1787",
         options: [],
         answer: ""
     },
     {
         id: 83,
         type: "short",
-        question: "?",
+        question: "The Federalist Papers supported the passage of the U.S Constitution. Name one of the writers",
         options: [],
         answer: ""
     },
     {
         id: 84,
         type: "short",
-        question: "?",
+        question: "Why were the Federalist Papers important?",
         options: [],
         answer: ""
     },
     {
         id: 85,
         type: "short",
-        question: "?",
+        question: "Benjamin Franklin is famous for many things. Name one.",
         options: [],
         answer: ""
     },
     {
         id: 86,
         type: "short",
-        question: "?",
+        question: "George Washington is famous for many things. Name one.",
         options: [],
         answer: ""
     },
     {
         id: 87,
         type: "short",
-        question: "?",
+        question: "Thomas Jefferson is famous for many things. Name one.",
         options: [],
         answer: ""
     },
     {
         id: 88,
         type: "short",
-        question: "?",
+        question: "James Madison is famous for many things. Name one.",
         options: [],
         answer: ""
     },
     {
         id: 89,
         type: "short",
-        question: "?",
+        question: "Alexander Hamilton is famous for many things. Name one.",
         options: [],
         answer: ""
     },
@@ -676,35 +676,35 @@ const AllQuestions = [
     {
         id: 90,
         type: "tf",
-        question: "",
+        question: "The Unites States bought Florida from France in 1803",
         options: ["TRUE","FALSE"],
         answer: ""
     },
     {
         id: 91,
         type: "tf",
-        question: "",
+        question: "The Civil War was fought by hte United States in 1800s",
         options: ["TRUE","FALSE"],
         answer: ""
     },
     {
         id: 92,
         type: "tf",
-        question: "",
+        question: "The War of 1812 was between the North and the South.",
         options: ["TRUE","FALSE"],
         answer: ""
     },
     {
         id: 93,
         type: "tf",
-        question: "",
+        question: "The Civil War included the Battle of Gettysburg",
         options: ["TRUE","FALSE"],
         answer: ""
     },
     {
         id: 94,
         type: "tf",
-        question: "",
+        question: "Abraham Lincoln is famous for preserving the Union",
         options: ["TRUE","FALSE"],
         answer: ""
     },
@@ -712,35 +712,35 @@ const AllQuestions = [
     {
         id: 95,
         type: "short",
-        question: "?",
+        question: "What did the Emancipation Proclamation do?",
         options: [],
         answer: ""
     },
     {
         id: 96,
         type: "short",
-        question: "?",
+        question: "what U.S war ended slavery?",
         options: [],
         answer: ""
     },
     {
         id: 97,
         type: "short",
-        question: "?",
+        question: "What amendment gives citizenship to all persons born in the United States?",
         options: [],
         answer: ""
     },
     {
         id: 98,
         type: "short",
-        question: "?",
+        question: "when did all men get the right to vote?",
         options: [],
         answer: ""
     },
     {
         id: 99,
         type: "short",
-        question: "?",
+        question: "Name on leader of the Women's right movement in the 1800s",
         options: [],
         answer: ""
     },
@@ -798,56 +798,56 @@ const AllQuestions = [
     {
         id: 107,
         type: "short",
-        question: "?",
+        question: "Dwight Eisnhower is famous for many things. Name one.",
         options: [],
         answer: ""
     },
     {
         id: 108,
         type: "short",
-        question: "?",
+        question: "Who was the United States' main rival duing the Cold War?",
         options: [],
         answer: ""
     },
     {
         id: 109,
         type: "short",
-        question: "?",
+        question: "During the Cold War, what was the main concern of the United States?",
         options: [],
         answer: ""
     },
     {
         id: 110,
         type: "short",
-        question: "?",
+        question: "Why did the United States enter the Korean war?",
         options: [],
         answer: ""
     },
     {
         id: 111,
         type: "short",
-        question: "?",
+        question: "Why did the United States enter the vietnams war?",
         options: [],
         answer: ""
     },
     {
         id: 112,
         type: "short",
-        question: "?",
+        question: "What did the Civil Rights movement do?",
         options: [],
         answer: ""
     },
     {
         id: 113,
         type: "short",
-        question: "?",
+        question: "Martin Luther King Jr. is famous for many things. Name one?",
         options: [],
         answer: ""
     },
     {
         id: 114,
         type: "short",
-        question: "?",
+        question: "Why did the United States enter the Persian Gulf War?",
         options: [],
         answer: ""
     },
@@ -855,49 +855,49 @@ const AllQuestions = [
     {
         id: 115,
         type: "tf",
-        question: "",
+        question: "Terrorist bombing the World Trade Center happened on September 11, 2001",
         options: ["TRUE","FALSE"],
-        answer: ""
+        answer: "TRUE"
     },
     {
         id: 116,
         type: "tf",
-        question: "",
+        question: "The Iraq War was after the September 11, 2001 attack",
         options: ["TRUE","FALSE"],
         answer: ""
     },
     {
         id: 117,
         type: "tf",
-        question: "",
+        question: "The Zulu is one American Indian tribe in the United States",
         options: ["TRUE","FALSE"],
         answer: ""
     },
     {
         id: 118,
         type: "tf",
-        question: "",
+        question: "The airplane is an example of an American Innovation",
         options: ["TRUE","FALSE"],
         answer: ""
     },
     {
         id: 119,
         type: "tf",
-        question: "",
+        question: "New York City is the Capital of the United States",
         options: ["TRUE","FALSE"],
         answer: ""
     },
     {
         id: 120,
         type: "tf",
-        question: "",
+        question: "The Statue of Liberty is located in New York City?",
         options: ["TRUE","FALSE"],
         answer: ""
     },
     {
         id: 121,
         type: "tf",
-        question: "",
+        question: "The flag has 13 stripes for each state that seceded from the Union?",
         options: ["TRUE","FALSE"],
         answer: ""
     },
@@ -905,49 +905,49 @@ const AllQuestions = [
     {
         id: 122,
         type: "short",
-        question: "?",
+        question: "Why does the flag have 50 stars?",
         options: [],
         answer: ""
     },
     {
         id: 123,
         type: "short",
-        question: "?",
+        question: "What is the name of the national anthem?",
         options: [],
         answer: ""
     },
     {
         id: 124,
         type: "short",
-        question: "?",
+        question: "the Nation's first motto was 'E Pluribus unum.' what does that mean?",
         options: [],
         answer: ""
     },
     {
         id: 125,
         type: "short",
-        question: "?",
+        question: "What is Independence Day?",
         options: [],
         answer: ""
     },
     {
         id: 126,
         type: "short",
-        question: "?",
+        question: "Name three national U.S holidays",
         options: [],
         answer: ""
     },
     {
         id: 127,
         type: "short",
-        question: "?",
+        question: "What is Memorial day?",
         options: [],
         answer: ""
     },
     {
         id: 128,
         type: "short",
-        question: "?",
+        question: "What is Veterans Day?",
         options: [],
         answer: ""
     },
